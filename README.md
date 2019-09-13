@@ -1,5 +1,7 @@
 # OpenSSL for Android (x32/x64)
 
+
+
 These scripts do all for you from downloading and extracting OpenSSL to
 generating static libraries for arm64-v8a and armeabi-v7a (optionally, other platforms)
 
